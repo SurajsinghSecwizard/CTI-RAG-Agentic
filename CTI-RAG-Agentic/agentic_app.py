@@ -2,6 +2,7 @@
 """
 CTI RAG Agentic System - Real Agentic Implementation
 Uses the actual multi-agent system like the local application
+FORCE REDEPLOY - Railway deployment fix
 """
 
 import streamlit as st
