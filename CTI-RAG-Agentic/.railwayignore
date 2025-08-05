@@ -1,0 +1,13 @@
+# Exclude unnecessary files from Railway deployment
+*.log
+*.zip
+deployments/
+LogFiles/
+vectorstore/
+__pycache__/
+*.pyc
+.env
+.git/
+.gitignore
+README.md
+*.md 
