@@ -3,6 +3,7 @@
 CTI RAG Agentic System - Real Agentic Implementation
 Uses the actual multi-agent system like the local application
 FORCE REDEPLOY - Railway deployment fix
+DEPLOYMENT FIX - This should show the full CTI RAG Agentic System interface
 """
 
 import streamlit as st
@@ -14,7 +15,7 @@ from typing import List, Dict, Any
 
 # Page config
 st.set_page_config(
-    page_title="CTI RAG Agentic System",
+    page_title="CTI RAG Agentic System - FULL DEPLOYMENT",
     page_icon="🕵️",
     layout="wide"
 )
